@@ -59,8 +59,6 @@ sudo pacman -S --needed gnome-calculator --noconfirm
 sudo pacman -S --needed gnome-disk-utility --noconfirm
 sudo pacman -S --needed gnome-system-monitor --noconfirm
 sudo pacman -S --needed evince --noconfirm
-sudo pacman -S --needed gedit --noconfirm
-sudo pacman -S --needed gedit-plugins --noconfirm
 sudo pacman -S --needed shotwell --noconfirm
 sudo pacman -S --needed gimp --noconfirm
 sudo pacman -S --needed gimp-help-hu --noconfirm
